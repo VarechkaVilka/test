@@ -1,7 +1,11 @@
 body{
-    background-color: blue;
+    background-color: rgb(195, 195, 226);
 }
 
 p{
     color: blueviolet;
+}
+h1{
+    font-size: 48px;
+    color: red;
 }
